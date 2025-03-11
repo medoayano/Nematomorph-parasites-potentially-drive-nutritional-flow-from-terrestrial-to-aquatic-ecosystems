@@ -11,7 +11,7 @@
 > 4. SourceData_ConsumptionRate_SCW.csv
 > 5. SourceData_ConsumptionRate_WT.csv
 
-Data files are availabe in Zenodo [Medo & Sato, 2025](https://doi.org/10.5281/zenodo.15003386)
+Data files are available in Zenodo [Medo & Sato, 2025](https://doi.org/10.5281/zenodo.15003386)
 
 ## Description
 ### 1. SourceCode_EPAcont.R
