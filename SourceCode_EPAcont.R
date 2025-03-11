@@ -9,8 +9,6 @@ library(brms)
 library(forcats)
 library(purrr)
 
-#setwd("/Users/admin/Open Research")
-
 #### EPA content of aquatic invertebrates ####
 ### A random effect meta-analysis ###
 
